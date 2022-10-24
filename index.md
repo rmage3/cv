@@ -1,4 +1,13 @@
 
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="This is Ryan Magee's Creative Portfolio">
+  <meta name="author" content="Ryan Magee">
+  <title>Ryan Magee Creative Portfolio</title>
+</head>
+
 <body>
   <center>
     <h1><strong>Ryan Magee</strong></h1>
