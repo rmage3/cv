@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -11,7 +11,7 @@
 <body>
   <center>
     <h1><strong>Ryan Magee</strong></h1>
-    <img src="/Users/ryan/Documents/web dev bootcamp/Web Development/images/Self-portrait rounded.png" alt="Portrait photo of Ryan" height="300">
+    <img src="images/Self-portrait rounded.png" alt="Portrait photo of Ryan" height="300">
     <p><em>Drum Teacher, Composer, Designer, Coder.</em></p>
     <p>Hello, I’m Ryan. I’m based in the UK, in the South-East of England. I am an electronic musician, a media and website designer, and a drum tutor.</p>
     <a href="contact.html">Contact</a>
